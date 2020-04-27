@@ -1,2 +1,2 @@
-# 2019-Fall-AILAB
+# 2019-Fall-AI-LAB
 SYSU RYH
