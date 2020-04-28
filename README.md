@@ -13,3 +13,7 @@ SYSU RYH
 * lab11-强化学习 (Final Project | implemented by me and my teammate)
 * Mid-term Project (lab6 & lab7)
 * Final Project (lab11)
+
+**All labs are based on python and cpp**
+
+**If any question, you can e-mail to xuewh5@mail2.sysu.edu.cn**
