@@ -1,5 +1,5 @@
 # 2019-Fall-AI-LAB
-SYSU RYH
+SYSU RYH 人工智能实验
 * lab1-数据处理与KNN
 * lab2-决策树
 * lab3-感知机学习算法与逻辑回归
